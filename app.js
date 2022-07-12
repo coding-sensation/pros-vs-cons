@@ -8,4 +8,4 @@ const title = prompt("Enter the title of the table:");
  document.querySelector("table").innerHTML += '<tr><td><h4>'+prosInput+'</h4></td><td><h4>'+consInput+'</h4></td></tr>';
 
  
-}while(consInput !="");
+}while(consInput !=="");
